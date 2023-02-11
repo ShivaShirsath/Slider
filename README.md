@@ -13,4 +13,4 @@ HTML JS CSS
 <img src="https://github-readme-stats.vercel.app/api?username=ShivaShirsath&show_icons=true&icon_color=F80&text_color=aaa&hide_title=true&border_color=888&include_all_commits=true&bg_color=90,000,000,000&title_color=0A0&border_radius=25" />
 </picture>
 
-![](https://google.com)
+![](https://ShivaShirsath.github.io)
