@@ -3,7 +3,7 @@ HTML JS CSS
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=ShivaShirsath&show_icons=true&icon_color=F80&text_color=fff&hide_title=true&border_color=fff&include_all_commits=true&bg_color=90,000,000,000&title_color=0A0&border_radius=25"
+  srcset="https://github-readme-stats.vercel.app/api?username=ShivaShirsath&show_icons=true&icon_color=F80&text_color=000&hide_title=true&border_color=000&include_all_commits=true&bg_color=90,000,000,000&title_color=0A0&border_radius=25"
   media="(prefers-color-scheme: dark)"
 />
 <source
