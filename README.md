@@ -1,5 +1,14 @@
 # Slider
 HTML JS CSS
 
-
-<iframe src="https://snappify.com/embed/8e0f3212-413b-4e3e-b8e3-aa78bfe3bae5?responsive"></iframe>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=ShivaShirsath&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=ShivaShirsath&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShivaShirsath&show_icons=true" />
+</picture>
