@@ -1,7 +1,7 @@
 # Slider
 HTML JS CSS
 ````html
-`
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -15,11 +15,11 @@ HTML JS CSS
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
-`
+
 ````
 
-```html
-`
+`````html
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -34,4 +34,4 @@ HTML JS CSS
   </body>
 </html>
 `
-```
+`````
