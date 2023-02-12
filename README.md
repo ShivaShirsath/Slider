@@ -1,6 +1,6 @@
 # Slider
 HTML JS CSS
-````
+````html
 <!DOCTYPE html>
 <html lang="en">
   <head>
