@@ -17,6 +17,9 @@ HTML JS CSS
 </html>
 
 ````
-
-<img src="https://snappify.com/embed/8e0f3212-413b-4e3e-b8e3-aa78bfe3bae5?responsive" />
+<picture>
+<source width="100%" height="100%"
+  srcset="https://snappify.com/embed/8e0f3212-413b-4e3e-b8e3-aa78bfe3bae5?responsive"
+/>
+</picture>
 
